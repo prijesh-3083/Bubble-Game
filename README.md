@@ -1,0 +1,2 @@
+# The "Bubble Game" is a fun and interactive web-based project built using HTML, CSS, and JavaScript. It showcases the implementation of the Document Object Model (DOM) and explores the concept of event bubbling in JavaScript.
+# In this project, players are presented with a screen filled with colorful bubbles floating around. The objective of the game is to click on as many bubbles as possible within a certain time limit. Each click on a bubble increments the player's score, adding to the challenge and excitement.
